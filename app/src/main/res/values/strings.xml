@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuuttonApp</string>
+    <string name="textLabel">Hello World! Daneya is here!</string>
+    <string name="buttonLabel">Click me!</string>
+</resources>
